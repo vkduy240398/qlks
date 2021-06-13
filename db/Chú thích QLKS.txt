@@ -1,0 +1,31 @@
+bảng
+age : quản lý độ tuổi
+branch: quản lý ngành và khoa
+comment: bảng lưu đánh giá của giảng viên
+comment_ntd: bảng lưu đánh giá của nhà tuyển dụng
+content: quản lý nội dung đánh giá của giảng viên, sinh viên, cựu sinh viên và nhà tuyển dụng
+contentcmt: quản lý đánh giá của nhà tuyển dụng về sinh viên
+co_so: quản lý cơ sở vật chất
+criteria: quản lý tiêu chí đánh giá
+dao_tao: quản lý đào tạo kỹ năng sinh viên
+giangvien: lưu thông tin giảng viên
+hoatdong: lưu lĩnh vực hoạt động
+info_oldsv: lưu thông tin chung của cựu sinh viên
+level: quản lý trình độ
+lh_coquan: quản lý loại hình của cơ quan
+loaihinh: quản lý loại hình của doanh nghiệp
+mucdo: quản lý mức độ đánh giá
+nganh_tuyen_dung: quản lý đánh giá của nhà tuyển dụng về ngành cần tuyển
+nguyennhan: quản lý nguyên nhân ( nguyên nhân chưa xin được việc)
+nhatuyendung: thông tin của nhà tuyển dụng
+noidungntd: quản lý những đánh giá về sinh viên của nhà tuyển dụng
+old_svcoso: đánh giá về cơ sở vật chất cần nâng cao của cựu sinh viên
+old_svdaotao: ý kiến về đào tạo
+old_svnguyennhan: nguyên nhân chưa xin được việc của sinh viên
+old_svyeuto: yếu tố nào xin được việc làm
+phamvi: quản lý phạm vi hoạt động của nhà tuyển dụng
+role: quản lý các quyền đánh giá
+vitri: quản lý vị trí của sinh viên trong doanh nghiệp
+yeuto: quản lý các yếu tố giúp sinh viên xin được việc làm
+sv_comment: lưu đánh giá của người học ( sinh viên đang học tại trường)
+info_sv: lưu thông tin chung của sinh viên
